@@ -1,4 +1,4 @@
-## GitHub Repositories
+# GitHub Repositories
 * [Data Science Pizza](https://github.com/leportella/datascience-pizza)
 * [Data Science Roadmap](https://github.com/datascience-python/data-science-roadmap)
 * [Data Science in a Box](https://github.com/rstudio-education/datascience-box)
