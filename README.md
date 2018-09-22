@@ -10,6 +10,6 @@ A repository to store everything for learning DataScience using Python
 * [Courses](COURSES.md)
 * [Datasets websites](DATASETS.md)
 * Podcasts
-* Python tricks
+* [Python](PYTHON.md)
 * [Repositories](Repositories.md)
 * [Websites to do exercises](CHALLENGES.md)
