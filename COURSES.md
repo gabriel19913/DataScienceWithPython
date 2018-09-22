@@ -41,3 +41,18 @@
 4. [Advanced Data Science Capstone](https://www.coursera.org/learn/advanced-data-science-capstone)
 
 ***Obs.: You can enroll for free in each course clicking in "participate as listener".***
+
+# Cognitiveclass.ai
+## [Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
+1. [Introduction to Data Science](https://cognitiveclass.ai/courses/data-science-101/)
+2. [Data Science Tools](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2/)
+3. [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2/)
+## [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python/)
+1. [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science/)
+2. [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python/)
+3. [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python/)
+## [Deep Learning](https://cognitiveclass.ai/learn/deep-learning/)
+1. [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning/)
+2. [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/)
+3. [Accelerating Deep Learning with GPU](https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu/)
+
