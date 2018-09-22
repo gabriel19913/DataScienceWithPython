@@ -7,6 +7,7 @@ A repository to store everything for learning DataScience using Python
 * Articles
 * Blogs
 * [Books](BOOKS.md)
+* Cheat Sheets
 * [Courses](COURSES.md)
 * [Datasets websites](DATASETS.md)
 * Podcasts
