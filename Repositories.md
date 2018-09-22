@@ -5,3 +5,4 @@
 * [100 Days of Machine Learning Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Recursos by @MachineLearningBR](https://github.com/MachineLearningBR/recursos)
+* [Cheat Sheets Data Science](https://github.com/kailashahirwar/cheatsheets-ai)
