@@ -18,6 +18,7 @@ The repository bellow contains a lot of datasets, you have to take a look:
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/datasets.html)
 * [World Banl Open Data](https://data.worldbank.org/)
 ## Other resources
+* [NASA's Open Data Portal](https://data.nasa.gov/)
 * [UK Data](https://data.gov.uk/)
 * [EU Open Data](http://data.europa.eu/euodp/en/data/?utm_source=datafloq&utm_medium=ref&utm_campaign=datafloq)
 * [Amazon Open Data](https://registry.opendata.aws/)
