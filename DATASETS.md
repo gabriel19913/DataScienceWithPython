@@ -9,6 +9,7 @@ The repository bellow contains a lot of datasets, you have to take a look:
 * [Portal da Transparência](http://www.portaldatransparencia.gov.br/)
 * [Awesome Brazil Data (GitHub Repository)](https://github.com/juliohm/awesome-brazil-data)
 * [Open Data (GitHub Repository)](https://github.com/datasets-br)
+* [IBGE](https://downloads.ibge.gov.br/)
 ## Top resources
 * [Reddit](https://www.reddit.com/r/datasets)
 * [Kaggle](https://www.kaggle.com/datasets)
