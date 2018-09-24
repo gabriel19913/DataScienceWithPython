@@ -16,6 +16,7 @@ The site bellow is a Google's tool for searching for datasets:
 * [Receita Federal](http://idg.receita.fazenda.gov.br/dados)
 * [FipeZap](http://fipezap.zapimoveis.com.br/)
 * [Banco Central do Brasil](https://www.bcb.gov.br/?serietemp)
+* [Dataset com info do Brasileirão entre 2000 e 2017](https://github.com/adaoduque/Brasileirao_Dataset)
 
 ## Top resources
 * [Reddit](https://www.reddit.com/r/datasets)
