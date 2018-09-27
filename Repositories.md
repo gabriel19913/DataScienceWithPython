@@ -6,3 +6,4 @@
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Recursos by @MachineLearningBR](https://github.com/MachineLearningBR/recursos)
 * [Cheat Sheets Data Science](https://github.com/kailashahirwar/cheatsheets-ai)
+* [NLP Progress](https://github.com/sebastianruder/NLP-progress)
