@@ -1,5 +1,6 @@
 # GitHub Repositories
 ## Highlights
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 * [Data Science Pizza](https://github.com/leportella/datascience-pizza)
 * [Cheat Sheets Data Science](https://github.com/kailashahirwar/cheatsheets-ai)
