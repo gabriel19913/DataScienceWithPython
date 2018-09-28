@@ -56,3 +56,25 @@
 2. [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/)
 3. [Accelerating Deep Learning with GPU](https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu/)
 
+# edX
+## [Data Science](https://www.edx.org/micromasters/data-science?utm_source=sailthru&utm_medium=email&utm_campaign=programs_bundle_campaign_sept2018&utm_term=Computer%20Science%20and%20Data%20Science%20Interest)
+1. [Python for Data Science](https://www.edx.org/course/python-for-data-science)
+2. [Probability and Statistics in Data Science using Python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python)
+3. [Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals)
+4. [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark)
+## [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures?utm_source=sailthru&utm_medium=email&utm_campaign=programs_bundle_campaign_sept2018&utm_term=Computer%20Science%20and%20Data%20Science%20Interest)
+1. [Algorithmic Design and Techniques](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x)
+2. [Data Structures Fundamentals](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
+3. [Graph Algorithms](https://www.edx.org/course/graph-algorithms-uc-san-diegox-algs202x)
+4. [NP-Complete Problems](https://www.edx.org/course/np-complete-problems-uc-san-diegox-algs203x)
+5. [String Processing and Pattern Matching Algorithms](https://www.edx.org/course/string-processing-pattern-matching-uc-san-diegox-algs204x)
+6. [Dynamic Programming: Applications In Machine Learning and Genomics](https://www.edx.org/course/dynamic-programming-applications-machine-uc-san-diegox-algs205x)
+7. [Graph Algorithms in Genome Sequencing](https://www.edx.org/course/graph-algorithms-genome-sequencing-uc-san-diegox-algs206x)
+8. [Algorithms and Data Structures Capstone](https://www.edx.org/course/algorithms-data-structures-capstone-uc-san-diegox-algs207x)
+
+## [Data Science for Executives](https://www.edx.org/professional-certificate/data-science-executives?utm_source=sailthru&utm_medium=email&utm_campaign=programs_bundle_campaign_sept2018&utm_term=Computer%20Science%20and%20Data%20Science%20Interest)
+1. [Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytics)
+2. [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)
+3. [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-for-data-science-and-analytics-the-internet-of-things)
+
+***Obs: You can audit the courses for free if you don't want a certificate. 
