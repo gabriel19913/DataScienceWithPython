@@ -5,6 +5,9 @@ The repository bellow contains a lot of datasets, you have to take a look:
 
 The site bellow is a Google's tool for searching for datasets:
 * [Google Data Search](https://toolbox.google.com/datasetsearch)
+
+Chatito helps you generate datasets for natural language understanding models using a simple DSL:
+* [Chatito](https://rodrigopivi.github.io/Chatito/)
 ## Data from Brazil in Portuguese
 * [Portal Brasileiro de Dados Abertos](http://dados.gov.br/dataset)
 * [Ciência de dados aplicada à Saúde](https://bigdata.icict.fiocruz.br/)
