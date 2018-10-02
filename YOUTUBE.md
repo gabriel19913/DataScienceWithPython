@@ -1,5 +1,6 @@
 # Some playlists and channels from YouTube
 ## Highlight
+* [The Ultimate List of Python YouTube Channels](https://realpython.com/python-youtube-channels/#.W7LVNdikKEQ.facebook)
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) has a lot of good videos, the themes vary, it is a must watch channel!
 * [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) is another channel with good videos. He periodically makes a live videos with a guest. You have to understand Portuguese to watch the videos.
 * [Introduction to Computational Thinking and Data Science - MIT Course](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
