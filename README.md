@@ -1,6 +1,7 @@
 # DataScienceWithPython
 A repository to store everything for learning DataScience using Python
 
+The links provided are for study purposes only.
 **Work in Progress**
 ***
 ## Table of Contents
