@@ -1,5 +1,11 @@
 # Books
+
+## Highlights
 * [The Best Python Books](https://realpython.com/best-python-books/)
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A lot of books in various languages
+
+## Other
+
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): FREE
 * [Pense em Python Segunda Edição](https://github.com/PenseAllen/PensePython2e): FREE (Portuguese)
 * [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc): FREE
