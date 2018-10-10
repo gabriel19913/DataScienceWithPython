@@ -8,7 +8,7 @@
 
 ## Other
  
-* [http://interactivepython.org/courselib/static/pythonds/index.html](http://interactivepython.org/courselib/static/pythonds/index.html): FREE
+* [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html): FREE
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): FREE
