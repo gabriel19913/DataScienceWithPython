@@ -77,4 +77,10 @@
 2. [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)
 3. [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-for-data-science-and-analytics-the-internet-of-things)
 
+## [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science#courses)
+1. [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+2. [Data Analysis in Social Science—Assessing Your Knowledge](https://www.edx.org/course/data-analysis-in-social-science-assessing-your-knowledge)
+3. [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics)
+4. [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning)
+
 ***Obs: You can audit the courses for free if you don't want a certificate. 
