@@ -1,5 +1,7 @@
 # GitHub Repositories
 ## Highlights
+* [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython): Common data analysis and machine learning tasks using Python
+* [CursoDataScience](https://github.com/araramakerspace/CursoDataScience) - Language: Portuguese
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 * [Data Science Pizza](https://github.com/leportella/datascience-pizza)
