@@ -6,6 +6,7 @@
 * [Como Aprender Data Science de Graça nas Melhores Universidades do Mundo](https://medium.com/data-science-brigade/como-aprender-data-science-de-gra%C3%A7a-nas-melhores-universidades-do-mundo-60a76a3af887) - Language: Portuguese
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [Which are the best known machine learning algorithms? Infographic](http://thinkbigdata.in/best-known-machine-learning-algorithms-infographic/)
+* [Top 10 TED Talks for the Data Scientists](https://www.kdnuggets.com/2016/02/top-10-tedtalks-data-scientists.html)
 
 ## Others
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
