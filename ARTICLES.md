@@ -1,6 +1,7 @@
 # Some Articles of subjects related to Data Science
 
 ## Highlight
+* [CIentista de Dados - Por onde começar em 8 passos](http://datascienceacademy.com.br/blog/cientista-de-dados-por-onde-comecar-em-8-passos/) - Language: Portuguese
 * [Construindo seu portfólio em Data Science](https://medium.com/databootcamp/construindo-seu-portf%C3%B3lio-em-data-science-f208b8edc53b) - Language: Portuguese
 * [Como Aprender Data Science de Graça nas Melhores Universidades do Mundo](https://medium.com/data-science-brigade/como-aprender-data-science-de-gra%C3%A7a-nas-melhores-universidades-do-mundo-60a76a3af887) - Language: Portuguese
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
