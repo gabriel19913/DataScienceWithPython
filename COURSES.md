@@ -40,6 +40,13 @@
 3. [Applied AI with DeepLearning](https://www.coursera.org/learn/ai)
 4. [Advanced Data Science Capstone](https://www.coursera.org/learn/advanced-data-science-capstone)
 
+## Deep Learning Specialization
+1. [Neural Networks and Deep Learning](https://pt.coursera.org/learn/neural-networks-deep-learning)
+2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://pt.coursera.org/learn/deep-neural-network)
+3. [Structuring Machine Learning Projects](https://pt.coursera.org/learn/machine-learning-projects)
+4. [Convolutional Neural Networks](https://pt.coursera.org/learn/convolutional-neural-networks)
+5. [Sequence Models](https://pt.coursera.org/learn/nlp-sequence-models)
+
 ***Obs.: You can enroll for free in each course clicking in "participate as listener".***
 
 # Cognitiveclass.ai
