@@ -4,6 +4,8 @@ A repository to store everything for learning DataScience using Python
 The links provided are for study purposes only.
 **Work in Progress**
 ***
+A good place to start in data science is [The Open Source Data Science Masters repository](https://github.com/datasciencemasters/go).
+***
 ## Table of Contents
 * [Articles](ARTICLES.md)
 * [Blogs](BLOGS.md)
