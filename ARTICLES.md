@@ -1,5 +1,11 @@
 # Some Articles of subjects related to Data Science
 
+## David Venturi Guide
+* [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
+* [If you want to learn Data Science, take a few of these statistics classes](https://medium.freecodecamp.org/if-you-want-to-learn-data-science-take-a-few-of-these-statistics-classes-9bbabab098b9)
+* [If you want to learn Data Science, start with one of these programming classes](https://medium.freecodecamp.org/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c)
+* [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+
 ## Highlight
 * [CIentista de Dados - Por onde começar em 8 passos](http://datascienceacademy.com.br/blog/cientista-de-dados-por-onde-comecar-em-8-passos/) - Language: Portuguese
 * [Construindo seu portfólio em Data Science](https://medium.com/databootcamp/construindo-seu-portf%C3%B3lio-em-data-science-f208b8edc53b) - Language: Portuguese
