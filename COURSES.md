@@ -93,4 +93,4 @@
 ***Obs: You can audit the courses for free if you don't want a certificate. 
 
 ## Others
-[CS109 Data Science - Harvard](http://cs109.github.io/2015/index.html)
+* [CS109 Data Science - Harvard](http://cs109.github.io/2015/index.html)
