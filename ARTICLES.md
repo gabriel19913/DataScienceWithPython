@@ -13,6 +13,7 @@
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [Which are the best known machine learning algorithms? Infographic](http://thinkbigdata.in/best-known-machine-learning-algorithms-infographic/)
 * [Top 10 TED Talks for the Data Scientists](https://www.kdnuggets.com/2016/02/top-10-tedtalks-data-scientists.html)
+* [10 bibliotecas de Data Science para Python que ninguém te conta](https://paulovasconcellos.com.br/10-bibliotecas-de-data-science-para-python-que-ningu%C3%A9m-te-conta-706ec3c4fcef) - Language: Portuguese
 
 ## Others
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
