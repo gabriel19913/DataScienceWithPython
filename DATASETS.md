@@ -29,6 +29,7 @@ Chatito helps you generate datasets for natural language understanding models us
 * [UNICEF](https://data.unicef.org/resources/resource-type/datasets/)
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/datasets.html)
 * [World Banl Open Data](https://data.worldbank.org/)
+* [Open Data for All New Yorkers](https://opendata.cityofnewyork.us/)
 ## Other resources
 * [Disney Dataset](https://www.disneyresearch.com/datasets/)
 * [NASA's Open Data Portal](https://data.nasa.gov/)
