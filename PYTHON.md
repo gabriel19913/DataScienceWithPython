@@ -16,6 +16,7 @@
 * [Using pandas on the MovieLens dataset](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
 
 ## Other
+* [Improve Your Python: Python Classes and Object Oriented Programming](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 * [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide/)
 * [Top 10 Must Watch Pycon Talks](https://realpython.com/must-watch-pycon-talks/)
 * [Python Web Scraping Tutorials](https://realpython.com/tutorials/web-scraping/)
