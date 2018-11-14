@@ -3,7 +3,7 @@
 * [Storytelling with Data](http://www.storytellingwithdata.com/)
 * [Advice to aspiring data scientists: start a blog](http://varianceexplained.org/r/start-blog/)
 * [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
-* [Ciência e Dados](http://www.cienciaedados.com) - LanguageÇ Portuguese
+* [Ciência e Dados](http://www.cienciaedados.com) - Language: Portuguese
 ## Other
 * [Paulo Vasconcelos](https://paulovasconcellos.com.br/)
 * [DataHackers](https://medium.com/data-hackers)
