@@ -9,6 +9,7 @@ The site bellow is a Google's tool for searching for datasets:
 Chatito helps you generate datasets for natural language understanding models using a simple DSL:
 * [Chatito](https://rodrigopivi.github.io/Chatito/)
 ## Data from Brazil in Portuguese
+* [TCE-MG - Dados de Municípios](https://dadosabertos.tce.mg.gov.br/index.xhtml)
 * [Catálogos Dados Brasil](https://github.com/dadosgovbr/catalogos-dados-brasil/blob/master/dados/catalogos.csv)
 * [Portal Brasileiro de Dados Abertos](http://dados.gov.br/dataset)
 * [Ciência de dados aplicada à Saúde](https://bigdata.icict.fiocruz.br/)
