@@ -4,6 +4,8 @@
 * [Advice to aspiring data scientists: start a blog](http://varianceexplained.org/r/start-blog/)
 * [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
 * [Ciência e Dados](http://www.cienciaedados.com) - Language: Portuguese
+* [Matheus Facure](https://matheusfacure.github.io/tutoriais/) - Language: Portuguese
+* [Chris Albon](https://chrisalbon.com/)
 ## Other
 * [Paulo Vasconcelos](https://paulovasconcellos.com.br/)
 * [DataHackers](https://medium.com/data-hackers)
