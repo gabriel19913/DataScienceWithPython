@@ -1,5 +1,6 @@
 # GitHub Repositories
 ## Highlights
+* [Open Source Society University](https://github.com/ossu/data-science)
 * [CursoDataScience](https://github.com/araramakerspace/CursoDataScience) - Language: Portuguese
 * [For Data Science Beginners](https://github.com/amrrs/For-Data-Science-Beginners)
 * [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython): Common data analysis and machine learning tasks using Python
