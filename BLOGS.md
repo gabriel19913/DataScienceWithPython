@@ -1,5 +1,6 @@
 # Blogs about Python and Data Science
 ## Highlight
+* [ClaoudML](http://www.claoudml.co/) - The best curated list of Data Science materials on the web!
 * [Storytelling with Data](http://www.storytellingwithdata.com/)
 * [Advice to aspiring data scientists: start a blog](http://varianceexplained.org/r/start-blog/)
 * [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
