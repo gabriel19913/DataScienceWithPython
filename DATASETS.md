@@ -1,5 +1,8 @@
 # Websites with a huge amount of data to use in your projects
 ## Highlight
+Repository with a lot of good datasets from Brazil in Portuguese:
+* [Colaboradados](https://colaboradados.github.io/)
+
 The repository bellow contains a lot of datasets, you have to take a look:
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
