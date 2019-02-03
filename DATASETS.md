@@ -35,6 +35,7 @@ Chatito helps you generate datasets for natural language understanding models us
 * [World Banl Open Data](https://data.worldbank.org/)
 * [Open Data for All New Yorkers](https://opendata.cityofnewyork.us/)
 ## Other resources
+* [Football Data](https://datahub.io/collections/football) - A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.
 * [Disney Dataset](https://www.disneyresearch.com/datasets/)
 * [NASA's Open Data Portal](https://data.nasa.gov/)
 * [UK Data](https://data.gov.uk/)
