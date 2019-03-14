@@ -47,6 +47,15 @@
 4. [Convolutional Neural Networks](https://pt.coursera.org/learn/convolutional-neural-networks)
 5. [Sequence Models](https://pt.coursera.org/learn/nlp-sequence-models)
 
+## Statistics with Python
+1. [
+Understanding and Visualizing Data with Python](https://pt.coursera.org/learn/understanding-visualization-data)
+2. [
+Inferential Statistical Analysis with Python](https://pt.coursera.org/learn/inferential-statistical-analysis-python)
+3. [
+Fitting Statistical Models to Data with Python
+](https://pt.coursera.org/learn/fitting-statistical-models-data-python)
+
 ***Obs.: You can enroll for free in each course clicking in "participate as listener".***
 
 # Cognitiveclass.ai
