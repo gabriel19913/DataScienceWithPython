@@ -30,6 +30,7 @@ Collections - high quality data and datasets organized by topic.
 * [Dataset com info do Brasileirão entre 2000 e 2017](https://github.com/adaoduque/Brasileirao_Dataset)
 
 ## Top resources
+* [Open Neuro](https://openneuro.org/public/datasets)
 * [Reddit](https://www.reddit.com/r/datasets)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [FiveThirtyEight](https://data.fivethirtyeight.com/)
