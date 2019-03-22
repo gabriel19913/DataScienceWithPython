@@ -50,3 +50,4 @@ Collections - high quality data and datasets organized by topic.
 * [Quandl](https://www.quandl.com/search)
 * [Socrata](https://opendata.socrata.com/)
 * [Data.World](https://data.world/)
+* [Datasets for Machine Learning](https://www.datasetlist.com/)
