@@ -9,6 +9,7 @@
 * [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 * [Data Science Pizza](https://github.com/leportella/datascience-pizza)
 * [Cheat Sheets Data Science](https://github.com/kailashahirwar/cheatsheets-ai)
+* [Data Science - Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 ## Others
 * [Machine Learning Links and Lessons Learned](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
 * [Data Science Roadmap](https://github.com/datascience-python/data-science-roadmap)
