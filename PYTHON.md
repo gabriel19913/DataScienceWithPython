@@ -23,4 +23,5 @@
 * [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
 * [Python Code Quality: Tools & Best Practices](https://realpython.com/python-code-quality/)
 * [Python's range() Function (Guide)](https://realpython.com/python-range/)
+* [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
 
