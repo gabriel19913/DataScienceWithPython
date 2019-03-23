@@ -38,6 +38,7 @@ Collections - high quality data and datasets organized by topic.
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/datasets.html)
 * [World Banl Open Data](https://data.worldbank.org/)
 * [Open Data for All New Yorkers](https://opendata.cityofnewyork.us/)
+* [Open Industrial Datasets](https://github.com/AndreaPi/Open-industrial-datasets)
 ## Other resources
 * [Football Data](https://datahub.io/collections/football) - A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.
 * [Disney Dataset](https://www.disneyresearch.com/datasets/)
