@@ -25,3 +25,4 @@
 * [A history of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
 * [Essential Math for Data Science — ‘Why’ and ‘How’](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd)
 * [Demystifying Convolutional Neural Networks](https://medium.com/@eternalzer0dayx/demystifying-convolutional-neural-networks-ca17bdc75559)
+* [Top 5 Machine Learning Courses for 2019](https://www.learndatasci.com/best-machine-learning-courses/)
