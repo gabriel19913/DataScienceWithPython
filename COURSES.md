@@ -17,6 +17,12 @@
 8. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
 9. [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone)
 
+## Advanced Data Science with IBM
+1. [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds)
+2. [Advanced Machine Learning and Signal Processing](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
+3. [Applied AI with DeepLearning](https://www.coursera.org/learn/ai)
+4. [Advanced Data Science Capstone](https://www.coursera.org/learn/advanced-data-science-capstone)
+
 ## Genomic Data Science
 1. [Introduction to Genomic Technologies](https://www.coursera.org/learn/introduction-genomics)
 2. [Genomic Data Science with Galaxy](https://www.coursera.org/learn/galaxy-project)
@@ -34,18 +40,21 @@
 4. [Real Life Data Science](https://www.coursera.org/learn/real-life-data-science)
 5. [Executiva Data Science Capstone](https://www.coursera.org/learn/executive-data-science-capstone)
 
-## Advanced Data Science with IBM
-1. [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds)
-2. [Advanced Machine Learning and Signal Processing](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
-3. [Applied AI with DeepLearning](https://www.coursera.org/learn/ai)
-4. [Advanced Data Science Capstone](https://www.coursera.org/learn/advanced-data-science-capstone)
-
 ## Deep Learning Specialization
 1. [Neural Networks and Deep Learning](https://pt.coursera.org/learn/neural-networks-deep-learning)
 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://pt.coursera.org/learn/deep-neural-network)
 3. [Structuring Machine Learning Projects](https://pt.coursera.org/learn/machine-learning-projects)
 4. [Convolutional Neural Networks](https://pt.coursera.org/learn/convolutional-neural-networks)
 5. [Sequence Models](https://pt.coursera.org/learn/nlp-sequence-models)
+
+## Advanced Machine Learning Specialization
+1. [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml)
+2. [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
+3. [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml)
+4. [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl?specialization=aml)
+5. [Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision)
+6. [Natural Language Processing](https://www.coursera.org/learn/language-processing)
+7. [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
 
 ## Statistics with Python
 1. [
@@ -78,6 +87,13 @@ Fitting Statistical Models to Data with Python
 2. [Probability and Statistics in Data Science using Python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python)
 3. [Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals)
 4. [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark)
+
+## [MicroMasters Program in Artificial Intelligence](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
+1. [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai)
+2. [Machine Learning](https://www.edx.org/course/machine-learning)
+3. [Robotics]()
+4. [Animation and CGI Motion](https://www.edx.org/course/animation-cgi-motion-1)
+
 ## [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures?utm_source=sailthru&utm_medium=email&utm_campaign=programs_bundle_campaign_sept2018&utm_term=Computer%20Science%20and%20Data%20Science%20Interest)
 1. [Algorithmic Design and Techniques](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x)
 2. [Data Structures Fundamentals](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
