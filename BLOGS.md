@@ -16,3 +16,4 @@
 * [leportella](https://leportella.com/)
 * [dataquest.io](https://www.dataquest.io)
 * [Data Science Central](https://www.datasciencecentral.com/)
+* [Stanford Lecture Notes](https://stanford.edu/~shervine/teaching/)
