@@ -8,6 +8,8 @@
 * [Ciência e Dados](http://www.cienciaedados.com) - Language: Portuguese
 * [Matheus Facure](https://matheusfacure.github.io/tutoriais/) - Language: Portuguese
 * [Chris Albon](https://chrisalbon.com/)
+* [Open AI](https://openai.com/)
+* [Fast.ai](https://www.fast.ai/)
 ## Other
 * [Paulo Vasconcelos](https://paulovasconcellos.com.br/)
 * [DataHackers](https://medium.com/data-hackers)
