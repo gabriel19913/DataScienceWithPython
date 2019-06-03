@@ -7,7 +7,8 @@
 * [Free Programming Books - English](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - Books about a lot of different themes
 
 ## Other
- 
+* [Deep Learning Book MIT](https://www.deeplearningbook.org/)
+* [Deep Learning Book](https://deeplearningbook.com.br/capitulos/page/2/): FREE (Portuguese)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html): FREE
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
