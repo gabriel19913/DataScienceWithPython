@@ -119,3 +119,4 @@ Fitting Statistical Models to Data with Python
 
 ## Others
 * [CS109 Data Science - Harvard](http://cs109.github.io/2015/index.html)
+* [The School AI](https://www.theschool.ai/courses/)
