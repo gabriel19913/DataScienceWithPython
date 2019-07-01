@@ -1,5 +1,6 @@
 # GitHub Repositories
 ## Highlights
+* [Awesome Machine Learning](https://github.com/italojs/awesome-machine-learning-portugues) - Language: Portuguese
 * [Open Source Society University](https://github.com/ossu/data-science)
 * [CursoDataScience](https://github.com/araramakerspace/CursoDataScience) - Language: Portuguese
 * [For Data Science Beginners](https://github.com/amrrs/For-Data-Science-Beginners)
