@@ -1,4 +1,4 @@
-# Websites with challenges and exercises
+# Websites with challenges, exercises and projects
 
 ## Competitions or Projects for Organizations:
 * [Cognitivo.Ai](https://www.cognitivo.ai/experts/new-expert/)
@@ -12,6 +12,7 @@
 * [KDD](https://www.kdd.org/kdd-cup)
 
 ## Training your skills
+* [70+ Machine Learning Datasets & Project Ideas – Work on real-time Data Science projects](https://data-flair.training/blogs/machine-learning-datasets)
 * [Neps Academy](https://neps.academy/login?next=%2F) - Language: Portuguese
 * [Code Nation](https://www.codenation.com.br/) - Language: Portuguese
 * [Hacker Rank](https://www.hackerrank.com/)
