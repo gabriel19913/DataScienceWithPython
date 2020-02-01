@@ -40,6 +40,7 @@ Collections - high quality data and datasets organized by topic.
 * [Open Data for All New Yorkers](https://opendata.cityofnewyork.us/)
 * [Open Industrial Datasets](https://github.com/AndreaPi/Open-industrial-datasets)
 ## Other resources
+* [70+ Machine Learning Datasets & Project Ideas – Work on real-time Data Science projects](https://data-flair.training/blogs/machine-learning-datasets)
 * [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html) - Datasets for Natural Language Processing
 * [Football Data](https://datahub.io/collections/football) - A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.
 * [Disney Dataset](https://www.disneyresearch.com/datasets/)
