@@ -54,3 +54,4 @@ Collections - high quality data and datasets organized by topic.
 * [Socrata](https://opendata.socrata.com/)
 * [Data.World](https://data.world/)
 * [Datasets for Machine Learning](https://www.datasetlist.com/)
+* [Guide to Football and Soccer Data and Api's](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
