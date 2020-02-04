@@ -12,6 +12,7 @@
 * [Cheat Sheets Data Science](https://github.com/kailashahirwar/cheatsheets-ai)
 * [Data Science - Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 ## Others
+* [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
 * [Machine Learning Links and Lessons Learned](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
 * [Data Science Roadmap](https://github.com/datascience-python/data-science-roadmap)
 * [Data Science in a Box](https://github.com/rstudio-education/datascience-box)
