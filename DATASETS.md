@@ -1,5 +1,8 @@
 # Websites with a huge amount of data to use in your projects
 ## Highlight
+A really good website with beatiful graphs and data:
+* [Information is Beautiful](https://informationisbeautiful.net/data/)
+
 Repository with a lot of good datasets from Brazil in Portuguese:
 * [Colaboradados](https://colaboradados.github.io/)
 
