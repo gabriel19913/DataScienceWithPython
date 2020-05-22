@@ -8,6 +8,8 @@
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
 * [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
 * [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
+* [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
+* [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks http://jupyterbook.org
 
 ## Highlights
 * [Awesome Machine Learning](https://github.com/italojs/awesome-machine-learning-portugues) - Language: Portuguese
