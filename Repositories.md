@@ -3,7 +3,6 @@
 ## Some ML libraries
 * [BentoML](https://github.com/bentoml/BentoML) - BentoML is an open-source platform for high-performance ML model serving.
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
-* [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python [http://locust.io](http://locust.io)
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
 * [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
@@ -11,6 +10,8 @@
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
 * [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks http://jupyterbook.org
 * [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Pure Python implementation of bayesian global optimization with gaussian processes.
+* [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
+* [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
 
 ## Highlights
 * [Awesome Machine Learning](https://github.com/italojs/awesome-machine-learning-portugues) - Language: Portuguese
