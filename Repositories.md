@@ -1,18 +1,22 @@
 # GitHub Repositories
 
 ## Some ML libraries
-* [BentoML](https://github.com/bentoml/BentoML) - BentoML is an open-source platform for high-performance ML model serving.
-* [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
-* [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python [http://locust.io](http://locust.io)
-* [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
-* [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
-* [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
-* [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
-* [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks http://jupyterbook.org
 * [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Pure Python implementation of bayesian global optimization with gaussian processes.
+* [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook http://BeakerX.com
+* [BentoML](https://github.com/bentoml/BentoML) - BentoML is an open-source platform for high-performance ML model serving.
+* [causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation http://causalnex.readthedocs.io/
+* [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
+* [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
+* [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
 * [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn https://hyperopt.github.io/hyperopt-sklearn/
+* [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks http://jupyterbook.org
+* [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python [http://locust.io](http://locust.io)
+* [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
+* [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
+* [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
+
 
 ## Highlights
 * [Awesome Machine Learning](https://github.com/italojs/awesome-machine-learning-portugues) - Language: Portuguese
