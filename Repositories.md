@@ -17,6 +17,7 @@
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
+* [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming http://epistasislab.github.io/tpot/
 
 
 ## Highlights
