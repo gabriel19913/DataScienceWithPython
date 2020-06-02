@@ -15,6 +15,7 @@
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python [http://locust.io](http://locust.io)
 * [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 * [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
+* [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning https://www.openmined.org/
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
