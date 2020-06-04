@@ -18,6 +18,7 @@
 * [pycaret](https://github.com/pycaret/pycaret) - An open source, low-code machine learning library in Python https://www.pycaret.org
 * [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning https://www.openmined.org/
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
+* [shap](https://github.com/slundberg/shap) - SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
