@@ -10,6 +10,7 @@
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
 * [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data http://datasette.readthedocs.io/
 * [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
+* [Hermione](https://github.com/A3Data/hermione) - Hermione is the newest open source library that will help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn https://hyperopt.github.io/hyperopt-sklearn/
 * [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks http://jupyterbook.org
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python [http://locust.io](http://locust.io)
@@ -19,6 +20,7 @@
 * [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning https://www.openmined.org/
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
 * [shap](https://github.com/slundberg/shap) - SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.
+* [sidetable](https://github.com/chris1610/sidetable) - sidetable builds simple but useful summary tables of your data https://pbpython.com
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
