@@ -9,6 +9,7 @@
 * [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
 * [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data http://datasette.readthedocs.io/
+* [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale https://falcon.readthedocs.io/en/stable/
 * [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
 * [Hermione](https://github.com/A3Data/hermione) - Hermione is the newest open source library that will help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn https://hyperopt.github.io/hyperopt-sklearn/
@@ -17,6 +18,8 @@
 * [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 * [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
 * [pycaret](https://github.com/pycaret/pycaret) - An open source, low-code machine learning library in Python https://www.pycaret.org
+* [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints https://pydantic-docs.helpmanual.io/
+* [PyInfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more https://pyinfra.com
 * [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning https://www.openmined.org/
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
 * [shap](https://github.com/slundberg/shap) - SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.
