@@ -7,6 +7,7 @@
 * [BentoML](https://github.com/bentoml/BentoML) - BentoML is an open-source platform for high-performance ML model serving.
 * [causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation http://causalnex.readthedocs.io/
 * [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
+& (Ciphey)[https://github.com/Ciphey/Ciphey] - Ciphey is an automated decryption tool. Input encrypted text, get the decrypted text back.
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
 * [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data http://datasette.readthedocs.io/
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale https://falcon.readthedocs.io/en/stable/
@@ -27,6 +28,7 @@
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
+* [Texthero](https://github.com/jbesomi/texthero) = Text preprocessing, representation and visualization from zero to hero https://texthero.org
 * [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming http://epistasislab.github.io/tpot/
 
 
