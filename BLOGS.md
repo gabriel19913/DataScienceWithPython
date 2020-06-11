@@ -1,5 +1,6 @@
 # Blogs about Python and Data Science
 ## Highlight
+* [CalmCode](https://calmcode.io/) - Made by people who want to remedy the skill anxiety. Short and simple video lessons that start from scratch. Tools and thoughts that might make your professional life more enjoyable.
 * [Data Flair](https://data-flair.training/blogs/)
 * [ClaoudML](http://www.claoudml.co/) - The best curated list of Data Science materials on the web!
 * [Storytelling with Data](http://www.storytellingwithdata.com/)
