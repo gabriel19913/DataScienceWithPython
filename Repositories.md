@@ -11,6 +11,7 @@
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
 * [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data http://datasette.readthedocs.io/
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale https://falcon.readthedocs.io/en/stable/
+* [gazpacho](https://github.com/maxhumber/gazpacho) - gazpacho is a simple, fast, and modern web scraping library.
 * [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
 * [Hermione](https://github.com/A3Data/hermione) - Hermione is the newest open source library that will help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn https://hyperopt.github.io/hyperopt-sklearn/
