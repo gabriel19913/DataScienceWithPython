@@ -2,6 +2,7 @@
 
 ## Some ML libraries
 * [Amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data https://lyft.github.io/amundsen/
+* [baselines](https://github.com/openai/baselines) - OpenAI Baselines is a set of high-quality implementations of reinforcement learning algorithms.
 * [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Pure Python implementation of bayesian global optimization with gaussian processes.
 * [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook http://BeakerX.com
 * [BentoML](https://github.com/bentoml/BentoML) - BentoML is an open-source platform for high-performance ML model serving.
@@ -17,6 +18,7 @@
 * [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
 * [guietta](https://github.com/alfiopuglisi/guietta) - A tool for making simple Python GUIs
 * [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+* [gym](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithm.
 * [Hermione](https://github.com/A3Data/hermione) - Hermione is the newest open source library that will help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn https://hyperopt.github.io/hyperopt-sklearn/
 * [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks http://jupyterbook.org
