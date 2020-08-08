@@ -10,6 +10,7 @@
 * [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Ciphey is an automated decryption tool. Input encrypted text, get the decrypted text back.
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
+* [Curecharts](https://github.com/cutecharts/cutecharts.py) - There is no doubt that Javascript has more advantages in interaction as well as visual effect. Besides that, as we all know, Python is an expressive language and is loved by data science community. Hence I want to combine the strength of both technologies, as the result of this idea, cutecharts.py is born.
 * [dataprep](https://github.com/sfu-db/dataprep) - Dataprep lets you prepare your data using a single library with a few lines of code.
 * [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data http://datasette.readthedocs.io/
 * [DeText](https://github.com/linkedin/detext) - DeText is a Deep Text understanding framework for NLP related ranking, classification, and language generation tasks.
