@@ -1,6 +1,7 @@
 # Books
 
 ## Highlights
+* [Dive into Deep Learning](https://d2l.ai/)
 * [The Best Python Books](https://realpython.com/best-python-books/)
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A lot of books in various languages
 * [Free Programming Books - Portuguese](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md) - Books about a lot of different themes
