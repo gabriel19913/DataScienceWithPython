@@ -17,8 +17,9 @@
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale https://falcon.readthedocs.io/en/stable/
 * [gazpacho](https://github.com/maxhumber/gazpacho) - gazpacho is a simple, fast, and modern web scraping library.
 * [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
-* [guietta](https://github.com/alfiopuglisi/guietta) - A tool for making simple Python GUIs
+* [Google Research Football](https://github.com/google-research/football) - This repository contains an RL environment based on open-source game Gameplay Football.
 * [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+* [guietta](https://github.com/alfiopuglisi/guietta) - A tool for making simple Python GUIs
 * [gym](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithm.
 * [Hermione](https://github.com/A3Data/hermione) - Hermione is the newest open source library that will help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn https://hyperopt.github.io/hyperopt-sklearn/
@@ -36,6 +37,7 @@
 * [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints https://pydantic-docs.helpmanual.io/
 * [PyInfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more https://pyinfra.com
 * [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning https://www.openmined.org/
+* [Qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
 * [shap](https://github.com/slundberg/shap) - SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.
 * [sidetable](https://github.com/chris1610/sidetable) - sidetable builds simple but useful summary tables of your data https://pbpython.com
