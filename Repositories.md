@@ -25,6 +25,7 @@
 * [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn https://hyperopt.github.io/hyperopt-sklearn/
 * [jukebox](https://github.com/openai/jukebox/ - Code for "Jukebox: A Generative Model for Music")
 * [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks http://jupyterbook.org
+* [kedro](https://github.com/quantumblacklabs/kedro) - Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines.
 * [koalas](https://github.com/databricks/koalas) - The Koalas project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
 * [Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - Generate high quality speech from only lip movements.
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python [http://locust.io](http://locust.io)
