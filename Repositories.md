@@ -50,6 +50,7 @@
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
 * [Texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero https://texthero.org
 * [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming http://epistasislab.github.io/tpot/
+* [tsfel](https://github.com/fraunhoferportugal/tsfel) - This repository hosts the TSFEL - Time Series Feature Extraction Library python package. TSFEL assists researchers on exploratory feature extraction tasks on time series without requiring significant programming effort.
 
 
 ## Highlights
