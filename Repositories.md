@@ -28,6 +28,7 @@
 * [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks http://jupyterbook.org
 * [kedro](https://github.com/quantumblacklabs/kedro) - Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines.
 * [koalas](https://github.com/databricks/koalas) - The Koalas project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
+* [lightly](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 * [Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - Generate high quality speech from only lip movements.
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python [http://locust.io](http://locust.io)
 * [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -35,10 +36,12 @@
 * [neupy](https://github.com/itdxer/neupy) - NeuPy is a python library for prototyping and building neural networks.
 * [Opytimizer](https://github.com/gugarosa/opytimizer) - This package provides an easy-to-go implementation of meta-heuristic optimizations.
 * [orchest](https://github.com/orchest/orchest) - Orchest is a web based data science tool that works on top of your filesystem allowing you to use your editor of choice. With Orchest you get to focus on visually building and iterating on your pipeline ideas
+* [pandasgui](https://github.com/adamerose/pandasgui) - A GUI for analyzing Pandas DataFrames.
 * [pingouin](https://github.com/raphaelvallat/pingouin) - Pingouin is an open-source statistical package written in Python 3 and based mostly on Pandas and NumPy.
 * [pycaret](https://github.com/pycaret/pycaret) - An open source, low-code machine learning library in Python https://www.pycaret.org
 * [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints https://pydantic-docs.helpmanual.io/
 * [PyInfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more https://pyinfra.com
+* [pyinstrument](https://github.com/joerick/pyinstrument) - Pyinstrument is a Python profiler. A profiler is a tool to help you 'optimize' your code - make it faster.
 * [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning https://www.openmined.org/
 * [Qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
