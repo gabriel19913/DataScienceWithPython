@@ -10,6 +10,7 @@
 * [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
 * [Chefboost](https://github.com/serengil/chefboost) - Lightweight Decision Tree Framework supporting regular algorithms: ID3, C4,5, CART, CHAID and Regression Trees; some advanced techniques: Gradient Boosting (GBDT, GBRT, GBM), Random Forest and Adaboost w/categorical features support for Python.
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Ciphey is an automated decryption tool. Input encrypted text, get the decrypted text back.
+* [Code Video Generator](https://github.com/sleuth-io/code-video-generator) - Code Video Generator is a library that uses the Manim animation engine to automatically generate code walkthrough videos.
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
 * [Curecharts](https://github.com/cutecharts/cutecharts.py) - There is no doubt that Javascript has more advantages in interaction as well as visual effect. Besides that, as we all know, Python is an expressive language and is loved by data science community. Hence I want to combine the strength of both technologies, as the result of this idea, cutecharts.py is born.
 * [dataprep](https://github.com/sfu-db/dataprep) - Dataprep lets you prepare your data using a single library with a few lines of code.
@@ -52,6 +53,7 @@
 * [sidetable](https://github.com/chris1610/sidetable) - sidetable builds simple but useful summary tables of your data https://pbpython.com
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 * [sqlacodegen](https://github.com/agronholm/sqlacodegen) - This is a tool that reads the structure of an existing database and generates the appropriate SQLAlchemy model code, using the declarative style if possible.
+* [Stories](https://github.com/benawad/vscode-stories) - Stories is a simple way of sharing code snippets with other developers. [Download in marketplace](https://marketplace.visualstudio.com/items?itemName=benawad.stories)
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
 * [Texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero https://texthero.org
