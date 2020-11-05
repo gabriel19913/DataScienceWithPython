@@ -59,7 +59,7 @@
 * [Texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero https://texthero.org
 * [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming http://epistasislab.github.io/tpot/
 * [tsfel](https://github.com/fraunhoferportugal/tsfel) - This repository hosts the TSFEL - Time Series Feature Extraction Library python package. TSFEL assists researchers on exploratory feature extraction tasks on time series without requiring significant programming effort.
-
+* [Unvoiced](https://github.com/grassknoted/Unvoiced) - Application that converts American Sign Language to Speech.
 
 ## Highlights
 * [Awesome Machine Learning](https://github.com/italojs/awesome-machine-learning-portugues) - Language: Portuguese
