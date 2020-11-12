@@ -17,6 +17,7 @@
 * [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data http://datasette.readthedocs.io/
 * [DeText](https://github.com/linkedin/detext) - DeText is a Deep Text understanding framework for NLP related ranking, classification, and language generation tasks.
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale https://falcon.readthedocs.io/en/stable/
+* [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 * [gazpacho](https://github.com/maxhumber/gazpacho) - gazpacho is a simple, fast, and modern web scraping library.
 * [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
 * [Google Research Football](https://github.com/google-research/football) - This repository contains an RL environment based on open-source game Gameplay Football.
@@ -62,6 +63,7 @@
 * [Unvoiced](https://github.com/grassknoted/Unvoiced) - Application that converts American Sign Language to Speech.
 
 ## Highlights
+* [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI.
 * [Awesome Machine Learning](https://github.com/italojs/awesome-machine-learning-portugues) - Language: Portuguese
 * [Open Source Society University](https://github.com/ossu/data-science)
 * [CursoDataScience](https://github.com/araramakerspace/CursoDataScience) - Language: Portuguese
