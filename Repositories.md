@@ -64,6 +64,7 @@
 
 ## Highlights
 * [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI.
+* [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 * [Awesome Machine Learning](https://github.com/italojs/awesome-machine-learning-portugues) - Language: Portuguese
 * [Open Source Society University](https://github.com/ossu/data-science)
 * [CursoDataScience](https://github.com/araramakerspace/CursoDataScience) - Language: Portuguese
