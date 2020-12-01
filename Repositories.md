@@ -37,6 +37,7 @@
 * [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 * [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
 * [neupy](https://github.com/itdxer/neupy) - NeuPy is a python library for prototyping and building neural networks.
+* [NeuralProphet](https://github.com/ourownstory/neural_prophet) - A Neural Network based Time-Series model
 * [Opytimizer](https://github.com/gugarosa/opytimizer) - This package provides an easy-to-go implementation of meta-heuristic optimizations.
 * [orchest](https://github.com/orchest/orchest) - Orchest is a web based data science tool that works on top of your filesystem allowing you to use your editor of choice. With Orchest you get to focus on visually building and iterating on your pipeline ideas
 * [pandasgui](https://github.com/adamerose/pandasgui) - A GUI for analyzing Pandas DataFrames.
