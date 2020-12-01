@@ -48,6 +48,7 @@
 * [pyinstrument](https://github.com/joerick/pyinstrument) - Pyinstrument is a Python profiler. A profiler is a tool to help you 'optimize' your code - make it faster.
 * [PyMC3](https://github.com/pymc-devs/pymc3) - PyMC3 is a Python package for Bayesian statistical modeling and Probabilistic Machine Learning focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
 * [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning https://www.openmined.org/
+* [Replicate](https://github.com/replicate/replicate) - Version control for machine learning. Replicate is a Python library that uploads files and metadata (like hyperparameters) to Amazon S3 or Google Cloud Storage. You can get the data back out using the command-line interface or a notebook.
 * [Quant DSL](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
 * [Qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
