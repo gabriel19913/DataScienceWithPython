@@ -2,6 +2,7 @@
 
 ## Some ML libraries
 * [Amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data https://lyft.github.io/amundsen/
+* [atheris](https://github.com/google/atheris) - Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython. Atheris is based off of libFuzzer.
 * [baselines](https://github.com/openai/baselines) - OpenAI Baselines is a set of high-quality implementations of reinforcement learning algorithms.
 * [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Pure Python implementation of bayesian global optimization with gaussian processes.
 * [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook http://BeakerX.com
