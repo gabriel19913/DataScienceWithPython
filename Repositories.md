@@ -66,6 +66,7 @@
 * [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming http://epistasislab.github.io/tpot/
 * [tsfel](https://github.com/fraunhoferportugal/tsfel) - This repository hosts the TSFEL - Time Series Feature Extraction Library python package. TSFEL assists researchers on exploratory feature extraction tasks on time series without requiring significant programming effort.
 * [Unvoiced](https://github.com/grassknoted/Unvoiced) - Application that converts American Sign Language to Speech.
+* [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 
 ## Highlights
 * [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI.
