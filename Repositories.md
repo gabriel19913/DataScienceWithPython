@@ -11,6 +11,7 @@
 * [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
 * [Chefboost](https://github.com/serengil/chefboost) - Lightweight Decision Tree Framework supporting regular algorithms: ID3, C4,5, CART, CHAID and Regression Trees; some advanced techniques: Gradient Boosting (GBDT, GBRT, GBM), Random Forest and Adaboost w/categorical features support for Python.
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Ciphey is an automated decryption tool. Input encrypted text, get the decrypted text back.
+* [Click](https://github.com/pallets/click/) - Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It's the "Command Line Interface Creation Kit". It's highly configurable but comes with sensible defaults out of the box.
 * [Code Video Generator](https://github.com/sleuth-io/code-video-generator) - Code Video Generator is a library that uses the Manim animation engine to automatically generate code walkthrough videos.
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
 * [Curecharts](https://github.com/cutecharts/cutecharts.py) - There is no doubt that Javascript has more advantages in interaction as well as visual effect. Besides that, as we all know, Python is an expressive language and is loved by data science community. Hence I want to combine the strength of both technologies, as the result of this idea, cutecharts.py is born.
