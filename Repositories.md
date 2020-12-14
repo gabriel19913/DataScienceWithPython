@@ -24,6 +24,7 @@
 * [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
 * [Google Research Football](https://github.com/google-research/football) - This repository contains an RL environment based on open-source game Gameplay Football.
 * [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) - Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
 * [guietta](https://github.com/alfiopuglisi/guietta) - A tool for making simple Python GUIs
 * [gym](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithm.
 * [Hermione](https://github.com/A3Data/hermione) - Hermione is the newest open source library that will help Data Scientists on setting up more organized codes, in a quicker and simpler way.
