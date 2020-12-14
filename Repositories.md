@@ -52,6 +52,7 @@
 * [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning https://www.openmined.org/
 * [ReBeL](https://github.com/facebookresearch/rebel) - Implementation of ReBeL, an algorithm that generalizes the paradigm of self-play reinforcement learning and search to imperfect-information games. This repository contains implementation only for Liar's Dice game.
 * [Replicate](https://github.com/replicate/replicate) - Version control for machine learning. Replicate is a Python library that uploads files and metadata (like hyperparameters) to Amazon S3 or Google Cloud Storage. You can get the data back out using the command-line interface or a notebook.
+* [RPA Framework](https://github.com/robocorp/rpaframework) - RPA Framework is a collection of open-source libraries and tools for Robotic Process Automation (RPA), and it is designed to be used with both Robot Framework and Python.
 * [Quant DSL](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
 * [Qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
