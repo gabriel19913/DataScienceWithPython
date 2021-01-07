@@ -12,6 +12,7 @@
 * [Chefboost](https://github.com/serengil/chefboost) - Lightweight Decision Tree Framework supporting regular algorithms: ID3, C4,5, CART, CHAID and Regression Trees; some advanced techniques: Gradient Boosting (GBDT, GBRT, GBM), Random Forest and Adaboost w/categorical features support for Python.
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Ciphey is an automated decryption tool. Input encrypted text, get the decrypted text back.
 * [Click](https://github.com/pallets/click/) - Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It's the "Command Line Interface Creation Kit". It's highly configurable but comes with sensible defaults out of the box.
+* [CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs.
 * [Code Video Generator](https://github.com/sleuth-io/code-video-generator) - Code Video Generator is a library that uses the Manim animation engine to automatically generate code walkthrough videos.
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
 * [Curecharts](https://github.com/cutecharts/cutecharts.py) - There is no doubt that Javascript has more advantages in interaction as well as visual effect. Besides that, as we all know, Python is an expressive language and is loved by data science community. Hence I want to combine the strength of both technologies, as the result of this idea, cutecharts.py is born.
@@ -20,6 +21,7 @@
 * [DeText](https://github.com/linkedin/detext) - DeText is a Deep Text understanding framework for NLP related ranking, classification, and language generation tasks.
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale https://falcon.readthedocs.io/en/stable/
 * [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+* [FastAPI CRUD Router](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models.
 * [gazpacho](https://github.com/maxhumber/gazpacho) - gazpacho is a simple, fast, and modern web scraping library.
 * [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
 * [Google Research Football](https://github.com/google-research/football) - This repository contains an RL environment based on open-source game Gameplay Football.
