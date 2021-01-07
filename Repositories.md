@@ -37,6 +37,7 @@
 * [lightly](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 * [Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - Generate high quality speech from only lip movements.
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python [http://locust.io](http://locust.io)
+* [lux](https://github.com/lux-org/lux) - Lux is a Python library that makes data science easier by automating aspects of the data exploration process. Lux facilitate faster experimentation with data, even when the user does not have a clear idea of what they are looking for.
 * [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 * [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
 * [neupy](https://github.com/itdxer/neupy) - NeuPy is a python library for prototyping and building neural networks.
