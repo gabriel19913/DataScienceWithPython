@@ -30,6 +30,7 @@
 * [guietta](https://github.com/alfiopuglisi/guietta) - A tool for making simple Python GUIs
 * [gym](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithm.
 * [Hermione](https://github.com/A3Data/hermione) - Hermione is the newest open source library that will help Data Scientists on setting up more organized codes, in a quicker and simpler way.
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 * [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn https://hyperopt.github.io/hyperopt-sklearn/
 * [igel](https://github.com/nidhaloff/igel) - A machine learning tool that allows to train, test and use models without writing code.
 * [jukebox](https://github.com/openai/jukebox/) - Code for "Jukebox: A Generative Model for Music"
