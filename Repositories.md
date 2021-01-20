@@ -51,6 +51,7 @@
 * [pingouin](https://github.com/raphaelvallat/pingouin) - Pingouin is an open-source statistical package written in Python 3 and based mostly on Pandas and NumPy.
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for drawing neural networks for reports and presentation.
 * [pycaret](https://github.com/pycaret/pycaret) - An open source, low-code machine learning library in Python https://www.pycaret.org
+* [PyComp](https://github.com/ThiagoPanini/pycomp) - Fábrica de componentes Python para automatização desde atividades rotineiras até construção de modelos de Machine Learning.
 * [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints https://pydantic-docs.helpmanual.io/
 * [PyInfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more https://pyinfra.com
 * [pyinstrument](https://github.com/joerick/pyinstrument) - Pyinstrument is a Python profiler. A profiler is a tool to help you 'optimize' your code - make it faster.
