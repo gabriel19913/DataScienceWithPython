@@ -1,22 +1,13 @@
 # Websites with a huge amount of data to use in your projects
 ## Highlight
-A really good website with beatiful graphs and data:
-* [Information is Beautiful](https://informationisbeautiful.net/data/)
+* [Information is Beautiful](https://informationisbeautiful.net/data/) - A really good website with beatiful graphs and data.
+* [Colaboradados](https://colaboradados.github.io/) - Repository with a lot of good datasets from Brazil in Portuguese.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - The repository bellow contains a lot of datasets, you have to take a look.
+* [Google Data Search](https://toolbox.google.com/datasetsearch) - The site bellow is a Google's tool for searching for datasets.
+* [Chatito](https://rodrigopivi.github.io/Chatito/) - Helps you generate datasets for natural language understanding models using a simple DSL.
+* [Datahub](https://datahub.io/collections) - Collections - high quality data and datasets organized by topic.
+* [Common Voice](https://commonvoice.mozilla.org/pt/datasets) - An open source, multi-language dataset of voices that anyone can use to train speech-enabled applications. Each entry in the dataset consists of a unique MP3 and corresponding text file.
 
-Repository with a lot of good datasets from Brazil in Portuguese:
-* [Colaboradados](https://colaboradados.github.io/)
-
-The repository bellow contains a lot of datasets, you have to take a look:
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-
-The site bellow is a Google's tool for searching for datasets:
-* [Google Data Search](https://toolbox.google.com/datasetsearch)
-
-Chatito helps you generate datasets for natural language understanding models using a simple DSL:
-* [Chatito](https://rodrigopivi.github.io/Chatito/)
-
-Collections - high quality data and datasets organized by topic.
-* [Datahub](https://datahub.io/collections)
 ## Data from Brazil in Portuguese
 * [TCE-MG - Dados de Municípios](https://dadosabertos.tce.mg.gov.br/index.xhtml)
 * [Catálogos Dados Brasil](https://github.com/dadosgovbr/catalogos-dados-brasil/blob/master/dados/catalogos.csv)
