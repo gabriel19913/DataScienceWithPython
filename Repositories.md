@@ -79,7 +79,8 @@
 * [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 
 ## Highlights
-* [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly. 
+* [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly.
+* [Awesome Dash](https://github.com/ucg8j/awesome-dash)
 * [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI.
 * [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 * [Awesome Machine Learning](https://github.com/italojs/awesome-machine-learning-portugues) - Language: Portuguese
