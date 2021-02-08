@@ -34,6 +34,7 @@
 * [Open Data for All New Yorkers](https://opendata.cityofnewyork.us/)
 * [Open Industrial Datasets](https://github.com/AndreaPi/Open-industrial-datasets)
 ## Other resources
+* [Spotify Datasets](https://research.atspotify.com/datasets/) - Dive into datasets for everything from podcasts to music recommendation
 * [Coronavirus](https://docs.google.com/spreadsheets/d/1JALlvOAolTQXad38ffSVHe0-TfjgBYDSpbQqQBIjRyE/edit#gid=0)
 * [70+ Machine Learning Datasets & Project Ideas – Work on real-time Data Science projects](https://data-flair.training/blogs/machine-learning-datasets)
 * [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html) - Datasets for Natural Language Processing
