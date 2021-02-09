@@ -69,6 +69,7 @@
 * [sidetable](https://github.com/chris1610/sidetable) - sidetable builds simple but useful summary tables of your data https://pbpython.com
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 * [sqlacodegen](https://github.com/agronholm/sqlacodegen) - This is a tool that reads the structure of an existing database and generates the appropriate SQLAlchemy model code, using the declarative style if possible.
+* [stock-pandas](https://github.com/kaelzhang/stock-pandas) - The production-ready subclass of `pandas.DataFrame` to support stock statistics and indicators.
 * [Stories](https://github.com/benawad/vscode-stories) - Stories is a simple way of sharing code snippets with other developers. [Download in marketplace](https://marketplace.visualstudio.com/items?itemName=benawad.stories)
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
