@@ -75,8 +75,9 @@
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
 * [Texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero https://texthero.org
 * [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming http://epistasislab.github.io/tpot/
-* [tsfel](https://github.com/fraunhoferportugal/tsfel) - This repository hosts the TSFEL - Time Series Feature Extraction Library python package. TSFEL assists researchers on exploratory feature extraction tasks on time series without requiring significant programming effort.
+* [tsfel](https://github.com/fraunhoferportugal/tsfel) - This repository hosts the TSFEL - Time Series Feature Extraction Library python package. TSFEL assists researchers on exploratory feature extraction tasks on time series without requiring significant programming effort. 
 * [Unvoiced](https://github.com/grassknoted/Unvoiced) - Application that converts American Sign Language to Speech.
+* [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 * [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 
 ## Highlights
