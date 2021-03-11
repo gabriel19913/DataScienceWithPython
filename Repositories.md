@@ -7,6 +7,7 @@
 * [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Pure Python implementation of bayesian global optimization with gaussian processes.
 * [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook http://BeakerX.com
 * [BentoML](https://github.com/bentoml/BentoML) - BentoML is an open-source platform for high-performance ML model serving.
+* [CacheSQL](https://github.com/felipeam86/cachesql) - CacheSQL is a simple library for making SQL queries with cache functionality. The main target of this library are data scientists and data analysts that rely on SQLalchemy to query data from SQL and pandas to do the heavy lifting in Python.
 * [causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation http://causalnex.readthedocs.io/
 * [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
 * [Chefboost](https://github.com/serengil/chefboost) - Lightweight Decision Tree Framework supporting regular algorithms: ID3, C4,5, CART, CHAID and Regression Trees; some advanced techniques: Gradient Boosting (GBDT, GBRT, GBM), Random Forest and Adaboost w/categorical features support for Python.
@@ -16,6 +17,7 @@
 * [Code Video Generator](https://github.com/sleuth-io/code-video-generator) - Code Video Generator is a library that uses the Manim animation engine to automatically generate code walkthrough videos.
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
 * [Curecharts](https://github.com/cutecharts/cutecharts.py) - There is no doubt that Javascript has more advantages in interaction as well as visual effect. Besides that, as we all know, Python is an expressive language and is loved by data science community. Hence I want to combine the strength of both technologies, as the result of this idea, cutecharts.py is born.
+* [D2Go](https://github.com/facebookresearch/d2go) - D2Go is a production ready software system from FacebookResearch, which supports end-to-end model training and deployment for mobile platforms.
 * [dataprep](https://github.com/sfu-db/dataprep) - Dataprep lets you prepare your data using a single library with a few lines of code.
 * [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data http://datasette.readthedocs.io/
 * [DeText](https://github.com/linkedin/detext) - DeText is a Deep Text understanding framework for NLP related ranking, classification, and language generation tasks.
@@ -45,7 +47,8 @@
 * [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 * [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
 * [neupy](https://github.com/itdxer/neupy) - NeuPy is a python library for prototyping and building neural networks.
-* [NeuralProphet](https://github.com/ourownstory/neural_prophet) - A Neural Network based Time-Series model
+* [NeuralProphet](https://github.com/ourownstory/neural_prophet) - A Neural Network based Time-Series model.
+* [OpenChat](https://github.com/hyunwoongko/openchat) - Opensource chatting framework for generative models.
 * [Opytimizer](https://github.com/gugarosa/opytimizer) - This package provides an easy-to-go implementation of meta-heuristic optimizations.
 * [orchest](https://github.com/orchest/orchest) - Orchest is a web based data science tool that works on top of your filesystem allowing you to use your editor of choice. With Orchest you get to focus on visually building and iterating on your pipeline ideas
 * [pandasgui](https://github.com/adamerose/pandasgui) - A GUI for analyzing Pandas DataFrames.
