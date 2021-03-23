@@ -71,6 +71,7 @@
 * [SDV](https://github.com/sdv-dev/SDV) - The Synthetic Data Vault (SDV) is a Synthetic Data Generation ecosystem of libraries that allows users to easily learn single-table, multi-table and timeseries datasets to later on generate new Synthetic Data that has the same format and statistical properties as the original dataset.
 * [shap](https://github.com/slundberg/shap) - SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.
 * [sidetable](https://github.com/chris1610/sidetable) - sidetable builds simple but useful summary tables of your data https://pbpython.com
+* [scikit-survival](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 * [sqlacodegen](https://github.com/agronholm/sqlacodegen) - This is a tool that reads the structure of an existing database and generates the appropriate SQLAlchemy model code, using the declarative style if possible.
 * [stock-pandas](https://github.com/kaelzhang/stock-pandas) - The production-ready subclass of `pandas.DataFrame` to support stock statistics and indicators.
