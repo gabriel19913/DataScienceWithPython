@@ -1,6 +1,7 @@
 # GitHub Repositories
 
 ## Some ML libraries
+* [aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - aiomultiprocess presents a simple interface, while running a full AsyncIO event loop on each child process, enabling levels of concurrency never before seen in a Python application.
 * [Amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data https://lyft.github.io/amundsen/
 * [atheris](https://github.com/google/atheris) - Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython. Atheris is based off of libFuzzer.
 * [baselines](https://github.com/openai/baselines) - OpenAI Baselines is a set of high-quality implementations of reinforcement learning algorithms.
@@ -16,6 +17,7 @@
 * [CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs.
 * [Code Video Generator](https://github.com/sleuth-io/code-video-generator) - Code Video Generator is a library that uses the Manim animation engine to automatically generate code walkthrough videos.
 * [creme](https://github.com/creme-ml/creme) - creme is a Python library for online machine learning.
+* [cuML](https://github.com/rapidsai/cuml) - cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 * [Curecharts](https://github.com/cutecharts/cutecharts.py) - There is no doubt that Javascript has more advantages in interaction as well as visual effect. Besides that, as we all know, Python is an expressive language and is loved by data science community. Hence I want to combine the strength of both technologies, as the result of this idea, cutecharts.py is born.
 * [D2Go](https://github.com/facebookresearch/d2go) - D2Go is a production ready software system from FacebookResearch, which supports end-to-end model training and deployment for mobile platforms.
 * [dataprep](https://github.com/sfu-db/dataprep) - Dataprep lets you prepare your data using a single library with a few lines of code.
