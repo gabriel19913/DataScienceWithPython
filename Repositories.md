@@ -72,6 +72,7 @@
 * [Realtime PyAudio FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - A simple package to do realtime audio analysis in native Python, using PyAudio and Numpy to extract and visualize FFT features from a live audio stream.
 * [SDV](https://github.com/sdv-dev/SDV) - The Synthetic Data Vault (SDV) is a Synthetic Data Generation ecosystem of libraries that allows users to easily learn single-table, multi-table and timeseries datasets to later on generate new Synthetic Data that has the same format and statistical properties as the original dataset.
 * [shap](https://github.com/slundberg/shap) - SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.
+* [Shapash](https://github.com/MAIF/shapash) - Shapash is a Python library which aims to make machine learning interpretable and understandable by everyone. It provides several types of visualization that display explicit labels that everyone can understand.
 * [sidetable](https://github.com/chris1610/sidetable) - sidetable builds simple but useful summary tables of your data https://pbpython.com
 * [scikit-survival](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
 * [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
