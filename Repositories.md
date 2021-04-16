@@ -80,6 +80,7 @@
 * [stock-pandas](https://github.com/kaelzhang/stock-pandas) - The production-ready subclass of `pandas.DataFrame` to support stock statistics and indicators.
 * [Stories](https://github.com/benawad/vscode-stories) - Stories is a simple way of sharing code snippets with other developers. [Download in marketplace](https://marketplace.visualstudio.com/items?itemName=benawad.stories)
 * [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools [https://www.streamlit.io/](https://www.streamlit.io/)
+* [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
 * [Texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero https://texthero.org
 * [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming http://epistasislab.github.io/tpot/
