@@ -118,6 +118,7 @@ Fitting Statistical Models to Data with Python
 ***Obs: You can audit the courses for free if you don't want a certificate. 
 
 ## Others
+* [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science! 
 * [CS109 Data Science - Harvard](http://cs109.github.io/2015/index.html)
 * [The School AI](https://www.theschool.ai/courses/)
 * [AcademIA](https://www.microsoft.com/pt-br/academia)
