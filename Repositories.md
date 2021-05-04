@@ -52,11 +52,13 @@
 * [neupy](https://github.com/itdxer/neupy) - NeuPy is a python library for prototyping and building neural networks.
 * [NeuralProphet](https://github.com/ourownstory/neural_prophet) - A Neural Network based Time-Series model.
 * [OpenChat](https://github.com/hyunwoongko/openchat) - Opensource chatting framework for generative models.
+* [optuna](https://github.com/optuna/optuna) - Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API.
 * [Opytimizer](https://github.com/gugarosa/opytimizer) - This package provides an easy-to-go implementation of meta-heuristic optimizations.
 * [orchest](https://github.com/orchest/orchest) - Orchest is a web based data science tool that works on top of your filesystem allowing you to use your editor of choice. With Orchest you get to focus on visually building and iterating on your pipeline ideas
 * [pandasgui](https://github.com/adamerose/pandasgui) - A GUI for analyzing Pandas DataFrames.
 * [pingouin](https://github.com/raphaelvallat/pingouin) - Pingouin is an open-source statistical package written in Python 3 and based mostly on Pandas and NumPy.
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for drawing neural networks for reports and presentation.
+* [prophet](https://github.com/facebook/prophet) - Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data.
 * [pycaret](https://github.com/pycaret/pycaret) - An open source, low-code machine learning library in Python https://www.pycaret.org
 * [PyComp](https://github.com/ThiagoPanini/pycomp) - Fábrica de componentes Python para automatização desde atividades rotineiras até construção de modelos de Machine Learning.
 * [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints https://pydantic-docs.helpmanual.io/
