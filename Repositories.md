@@ -4,6 +4,7 @@
 * [aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - aiomultiprocess presents a simple interface, while running a full AsyncIO event loop on each child process, enabling levels of concurrency never before seen in a Python application.
 * [Amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data https://lyft.github.io/amundsen/
 * [atheris](https://github.com/google/atheris) - Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython. Atheris is based off of libFuzzer.
+* [atoti](https://github.com/atoti/atoti) - atoti is a free Python BI analytics platform for Quants, Data Analysts, Data Scientists & Business Users to collaborate better, analyze faster and translate their data into business KPIs.
 * [baselines](https://github.com/openai/baselines) - OpenAI Baselines is a set of high-quality implementations of reinforcement learning algorithms.
 * [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Pure Python implementation of bayesian global optimization with gaussian processes.
 * [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook http://BeakerX.com
