@@ -24,6 +24,8 @@
 * [dataprep](https://github.com/sfu-db/dataprep) - Dataprep lets you prepare your data using a single library with a few lines of code.
 * [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data http://datasette.readthedocs.io/
 * [DeText](https://github.com/linkedin/detext) - DeText is a Deep Text understanding framework for NLP related ranking, classification, and language generation tasks.
+* [Elara DB](https://github.com/saurabh0719/elara) - Elara DB is an easy to use, lightweight NoSQL database written for python that can also be used as a fast in-memory cache for JSON-serializable data. Includes various methods to manipulate data structures in-memory, secure database files and export data.
+* [Euporie](https://github.com/joouha/euporie) 0 Euporie is a text-based user interface for running and editing Jupyter notebooks.
 * [Evol](https://github.com/godatadriven/evol) - A python grammar for evolutionary algorithms and heuristics 
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale https://falcon.readthedocs.io/en/stable/
 * [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
@@ -57,6 +59,7 @@
 * [Opytimizer](https://github.com/gugarosa/opytimizer) - This package provides an easy-to-go implementation of meta-heuristic optimizations.
 * [orchest](https://github.com/orchest/orchest) - Orchest is a web based data science tool that works on top of your filesystem allowing you to use your editor of choice. With Orchest you get to focus on visually building and iterating on your pipeline ideas
 * [pandasgui](https://github.com/adamerose/pandasgui) - A GUI for analyzing Pandas DataFrames.
+* [panel](https://github.com/holoviz/panel) - Panel provides tools for easily composing widgets, plots, tables, and other viewable objects and controls into custom analysis tools, apps, and dashboards.
 * [pingouin](https://github.com/raphaelvallat/pingouin) - Pingouin is an open-source statistical package written in Python 3 and based mostly on Pandas and NumPy.
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for drawing neural networks for reports and presentation.
 * [prophet](https://github.com/facebook/prophet) - Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data.
@@ -91,6 +94,7 @@
 * [Unvoiced](https://github.com/grassknoted/Unvoiced) - Application that converts American Sign Language to Speech.
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 * [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
+* [xarray](https://github.com/pydata/xarray) - xarray (formerly xray) is an open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun!
 
 ## Highlights
 * [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly.
