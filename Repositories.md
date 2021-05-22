@@ -10,6 +10,7 @@
 * [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook http://BeakerX.com
 * [BentoML](https://github.com/bentoml/BentoML) - BentoML is an open-source platform for high-performance ML model serving.
 * [CacheSQL](https://github.com/felipeam86/cachesql) - CacheSQL is a simple library for making SQL queries with cache functionality. The main target of this library are data scientists and data analysts that rely on SQLalchemy to query data from SQL and pandas to do the heavy lifting in Python.
+* [Causal ML](https://github.com/uber/causalml) - Causal ML is a Python package that provides a suite of uplift modeling and causal inference methods using machine learning algorithms based on recent research. It provides a standard interface that allows user to estimate the Conditional Average Treatment Effect (CATE) or Individual Treatment Effect (ITE) from experimental or observational data
 * [causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation http://causalnex.readthedocs.io/
 * [Celluloid](https://github.com/jwkvam/celluloid) - This module makes it easy to adapt your existing visualization code to create an animation.
 * [Chefboost](https://github.com/serengil/chefboost) - Lightweight Decision Tree Framework supporting regular algorithms: ID3, C4,5, CART, CHAID and Regression Trees; some advanced techniques: Gradient Boosting (GBDT, GBRT, GBM), Random Forest and Adaboost w/categorical features support for Python.
@@ -24,6 +25,8 @@
 * [dataprep](https://github.com/sfu-db/dataprep) - Dataprep lets you prepare your data using a single library with a few lines of code.
 * [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data http://datasette.readthedocs.io/
 * [DeText](https://github.com/linkedin/detext) - DeText is a Deep Text understanding framework for NLP related ranking, classification, and language generation tasks.
+* [DoWhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions.
+* [EconML](https://github.com/microsoft/EconML) - EconML is a Python package for estimating heterogeneous treatment effects from observational data via machine learning.
 * [Elara DB](https://github.com/saurabh0719/elara) - Elara DB is an easy to use, lightweight NoSQL database written for python that can also be used as a fast in-memory cache for JSON-serializable data. Includes various methods to manipulate data structures in-memory, secure database files and export data.
 * [Euporie](https://github.com/joouha/euporie) 0 Euporie is a text-based user interface for running and editing Jupyter notebooks.
 * [Evol](https://github.com/godatadriven/evol) - A python grammar for evolutionary algorithms and heuristics 
