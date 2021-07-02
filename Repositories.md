@@ -33,6 +33,7 @@
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale https://falcon.readthedocs.io/en/stable/
 * [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 * [FastAPI CRUD Router](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models.
+* [fds](https://github.com/DAGsHub/fds) - Fast Data Science, AKA fds, is a CLI for Data Scientists to version control data and code at once, by conveniently wrapping git and dvc.
 * [gazpacho](https://github.com/maxhumber/gazpacho) - gazpacho is a simple, fast, and modern web scraping library.
 * [ggnerator](https://github.com/Datenworks/ggenerator) - A simple command line tool for fake dataset generation given a specification defined as a JSON DSL https://pypi.org/project/ggenerator/
 * [Google Research Football](https://github.com/google-research/football) - This repository contains an RL environment based on open-source game Gameplay Football.
@@ -98,6 +99,7 @@
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 * [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 * [xarray](https://github.com/pydata/xarray) - xarray (formerly xray) is an open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun!
+* [zero](https://github.com/Ananto30/zero#benchmarks) - A high performance and fast Python microservice framework (RPC + PubSub).
 
 ## Highlights
 * [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly.
