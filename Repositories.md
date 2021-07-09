@@ -55,9 +55,11 @@
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python [http://locust.io](http://locust.io)
 * [lux](https://github.com/lux-org/lux) - Lux is a Python library that makes data science easier by automating aspects of the data exploration process. Lux facilitate faster experimentation with data, even when the user does not have a clear idea of what they are looking for.
 * [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+* [Mava](https://github.com/instadeepai/Mava) - Mava is a library for building multi-agent reinforcement learning (MARL) systems. Mava provides useful components, abstractions, utilities and tools for MARL and allows for simple scaling for multi-process system training and execution while providing a high level of flexibility and composability.
 * [MLextend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries http://rasbt.github.io/mlxtend/
 * [neupy](https://github.com/itdxer/neupy) - NeuPy is a python library for prototyping and building neural networks.
 * [NeuralProphet](https://github.com/ourownstory/neural_prophet) - A Neural Network based Time-Series model.
+* [Newspaper](https://github.com/codelucas/newspaper/) - Newspaper is an amazing python library for extracting & curating articles.
 * [OpenChat](https://github.com/hyunwoongko/openchat) - Opensource chatting framework for generative models.
 * [optuna](https://github.com/optuna/optuna) - Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API.
 * [Opytimizer](https://github.com/gugarosa/opytimizer) - This package provides an easy-to-go implementation of meta-heuristic optimizations.
@@ -94,8 +96,10 @@
 * [sysidentpy](https://github.com/wilsonrljr/sysidentpy) - sysidentpy is a Python module for System Identification using NARMAX models built on top of numpy and is distributed under the 3-Clause BSD license.
 * [Texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero https://texthero.org
 * [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming http://epistasislab.github.io/tpot/
-* [tsfel](https://github.com/fraunhoferportugal/tsfel) - This repository hosts the TSFEL - Time Series Feature Extraction Library python package. TSFEL assists researchers on exploratory feature extraction tasks on time series without requiring significant programming effort. 
+* [tsfel](https://github.com/fraunhoferportugal/tsfel) - This repository hosts the TSFEL - Time Series Feature Extraction Library python package. TSFEL assists researchers on exploratory feature extraction tasks on time series without requiring significant programming effort.
+* [tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code.
 * [Unvoiced](https://github.com/grassknoted/Unvoiced) - Application that converts American Sign Language to Speech.
+* [Visual Python](https://github.com/visualpython/visualpython) - Visual Python is a GUI-based Python code generator, developed on the Jupyter Notebook environment as an extension.
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 * [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 * [xarray](https://github.com/pydata/xarray) - xarray (formerly xray) is an open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun!
